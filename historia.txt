@@ -1,2 +1,4 @@
 hola me llamo joseph
-edad 15
+edad 29
+
+Hoy hablaremos de su vida

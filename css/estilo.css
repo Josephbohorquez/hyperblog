@@ -2,22 +2,37 @@ body
 {
     color:black;
     text-align: center;
-    font-family: "Courier";
-    font-size: 30px;
+    font-family: "Arial";
+    font-size: 16px;
     margin: 0;
     padding: 0;
 
 }
+#cabecera
+{
+    background-color:blueviolet;
+    box-shadow: 0px 5px 30px 0px rgaa(0,0,0,0.75);
+    color: linen;
+    margin: 0;
+    padding: 0.5em;
+    font-weight: bolder;
+
+
+}
+
+
+
+
 #countainer
 {
-    width: 80%;
+    width: 70%;
     padding: 1em;
     text-align: left;
     border: 1px solid #ddd;
-    margin: 0 auto;
-    
+    margin: 0;
+
 }
 #countainer h1
 {
-    font-size: 200%;
+    font-size: 70%;
 }
